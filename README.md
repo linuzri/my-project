@@ -1,2 +1,2 @@
 # my-project
-all my python code during my self learning is backup here!
+all my python code during my self learning is here!
