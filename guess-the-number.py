@@ -18,7 +18,7 @@ while True:
         print("you guess : " + player)
         print("you missed!")
 
-    play_again = input("play again (y/n) ? :")
+    play_again = input("play again (y/n) ? :").lower()
     if play_again != 'y':
         break
 print("bye")
